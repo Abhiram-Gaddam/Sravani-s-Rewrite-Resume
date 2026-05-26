@@ -1,4 +1,5 @@
 Job Description
+ 
 Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutions/applications.
 1. Applies scientific methods to analyse and solve software engineering problems.
 2. He/she is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.
